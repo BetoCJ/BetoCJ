@@ -4,7 +4,7 @@
 
 # Hola, soy Alberto 👋
 
-**Estudiante · Desarrollador y administrador de [Mapucraft](https://mapucraft.com)**
+**Estudiante · Desarrollador y administrador de [Mapucraft](https://mapucraft.com)**<br>
 Universidad del Bío-Bío (UBB) · Chile 🇨🇱
 
 [![Mapucraft](https://img.shields.io/badge/Mapucraft-mapucraft.com-DE8E16?style=for-the-badge&logo=minecraft&logoColor=white)](https://mapucraft.com)
