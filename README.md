@@ -88,4 +88,4 @@ flowchart LR
 - 💬 Discord de la comunidad: <https://discord.gg/YDJKpgEU3m>
 - 🛒 Tienda: <https://mapucraft.com> · 📖 Wiki: <https://mapu-1.gitbook.io/mapucraft>
 
-<div align="center"><sub>Hecho con ☕ y mucho Minecraft · Chaltu may 💛</sub></div>
+<div align="center"><sub>💛</sub></div>
