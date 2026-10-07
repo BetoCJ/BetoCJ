@@ -84,7 +84,7 @@ flowchart LR
 
 ## 📫 Contacto
 
-- 🎮 Sígueme en el juego: **`mapucraft.com`** (Java) · Bedrock `185.73.243.22:19132`
+- 🎮 Sígueme en el juego: **`mapucraft.com`** (Java) · Bedrock **`mc.mapucraft.com`** (puerto `19132`, IP `185.73.243.22`)
 - 💬 Discord de la comunidad: <https://discord.gg/YDJKpgEU3m>
 - 🛒 Tienda: <https://mapucraft.com> · 📖 Wiki: <https://mapu-1.gitbook.io/mapucraft>
 
